@@ -1,3 +1,3 @@
 # NETHERNITE-test
 
-you can see page [HERE](git@github.com:roman-hado/NETHERNITE-test.git)
+you can see page [HERE](https://roman-hado.github.io/NETHERNITE-test/)
