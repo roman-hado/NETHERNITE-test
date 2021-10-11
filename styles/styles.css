@@ -60,7 +60,7 @@ html {
 
 body {
   font-family: 'Roboto', sans-serif;
-  background: url("/img/bg__mountain.png");
+  background: url("../img/bg__mountain.png");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -350,7 +350,7 @@ body {
   position: relative;
   width: 200px;
   height: 300px;
-  background-image: url("/img/card__border.png"), url("/img/card__bg.png");
+  background-image: url("../img/card__border.png"), url("../img/card__bg.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: 0 0, 0 0;
@@ -362,7 +362,7 @@ body {
   display: flex;
   height: 100%;
   width: 100%;
-  background-image: url("/img/card__redLine2.png"), url("/img/card__redLine.png");
+  background-image: url("../img/card__redLine2.png"), url("../img/card__redLine.png");
   background-repeat: no-repeat;
   background-position: 3px 3px, 0 0;
 }
